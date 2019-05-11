@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wangjinbo"
+  id="myeclipse.1557542458772"
+  context-root="/wangjinbo"
+  j2ee-spec="5.0"
+  archive="wangjinbo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
